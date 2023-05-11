@@ -1,0 +1,16 @@
+C:\Users\kymifBSM\source\repos\WPF-laba-11\WPF-laba-11\bin\Debug\WPF-laba-11.exe.config
+C:\Users\kymifBSM\source\repos\WPF-laba-11\WPF-laba-11\bin\Debug\WPF-laba-11.exe
+C:\Users\kymifBSM\source\repos\WPF-laba-11\WPF-laba-11\bin\Debug\WPF-laba-11.pdb
+C:\Users\kymifBSM\source\repos\WPF-laba-11\WPF-laba-11\obj\Debug\WPF-laba-11.csproj.AssemblyReference.cache
+C:\Users\kymifBSM\source\repos\WPF-laba-11\WPF-laba-11\obj\Debug\WPF-laba-11.csproj.SuggestedBindingRedirects.cache
+C:\Users\kymifBSM\source\repos\WPF-laba-11\WPF-laba-11\obj\Debug\MainWindow.g.cs
+C:\Users\kymifBSM\source\repos\WPF-laba-11\WPF-laba-11\obj\Debug\App.g.cs
+C:\Users\kymifBSM\source\repos\WPF-laba-11\WPF-laba-11\obj\Debug\WPF-laba-11_MarkupCompile.cache
+C:\Users\kymifBSM\source\repos\WPF-laba-11\WPF-laba-11\obj\Debug\WPF-laba-11_MarkupCompile.lref
+C:\Users\kymifBSM\source\repos\WPF-laba-11\WPF-laba-11\obj\Debug\MainWindow.baml
+C:\Users\kymifBSM\source\repos\WPF-laba-11\WPF-laba-11\obj\Debug\WPF-laba-11.g.resources
+C:\Users\kymifBSM\source\repos\WPF-laba-11\WPF-laba-11\obj\Debug\WPF_laba_11.Properties.Resources.resources
+C:\Users\kymifBSM\source\repos\WPF-laba-11\WPF-laba-11\obj\Debug\WPF-laba-11.csproj.GenerateResource.cache
+C:\Users\kymifBSM\source\repos\WPF-laba-11\WPF-laba-11\obj\Debug\WPF-laba-11.csproj.CoreCompileInputs.cache
+C:\Users\kymifBSM\source\repos\WPF-laba-11\WPF-laba-11\obj\Debug\WPF-laba-11.exe
+C:\Users\kymifBSM\source\repos\WPF-laba-11\WPF-laba-11\obj\Debug\WPF-laba-11.pdb
