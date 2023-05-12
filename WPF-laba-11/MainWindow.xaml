@@ -14,27 +14,30 @@
         </Grid.ColumnDefinitions>
 
         <ComboBox x:Name="fontComboBox" Grid.Column="0" HorizontalAlignment="Center" Height="25" Margin="0,30,0,0" VerticalAlignment="Top" Width="120">
-                <ComboBoxItem>Arial</ComboBoxItem>
-                <ComboBoxItem>Times New Roman</ComboBoxItem>
-                <ComboBoxItem>Verdana</ComboBoxItem>
-            </ComboBox>
-            <ComboBox x:Name="sizeComboBox" Grid.Column="1" HorizontalAlignment="Center" Height="25" Margin="0,30,0,0" VerticalAlignment="Top" Width="120">
-                <ComboBoxItem>8</ComboBoxItem>
-                <ComboBoxItem>10</ComboBoxItem>
-                <ComboBoxItem>12</ComboBoxItem>
-                <ComboBoxItem>14</ComboBoxItem>
-                <ComboBoxItem>16</ComboBoxItem>
-            </ComboBox>
-            <ComboBox x:Name="styleComboBox" Grid.Column="2" Background="AliceBlue" HorizontalAlignment="Center" Height="25" Margin="0,30,0,0" VerticalAlignment="Top" Width="120">
-                <ComboBoxItem>Regular</ComboBoxItem>
-                <ComboBoxItem>Bold</ComboBoxItem>
-                <ComboBoxItem>Italic</ComboBoxItem>
-                <ComboBoxItem>Underline</ComboBoxItem>
-            </ComboBox>
-        
-        <TextBlock x:Name="fontLabel" Grid.ColumnSpan="3" HorizontalAlignment="Center" VerticalAlignment="Center" Text="Образец" FontSize="16"/>
+            <ComboBoxItem>Arial</ComboBoxItem>
+            <ComboBoxItem>Times New Roman</ComboBoxItem>
+            <ComboBoxItem>Verdana</ComboBoxItem>
+        </ComboBox>
+        <ComboBox x:Name="sizeComboBox" Grid.Column="1" HorizontalAlignment="Center" Height="25" Margin="0,30,0,0" VerticalAlignment="Top" Width="120">
+            <ComboBoxItem>8</ComboBoxItem>
+            <ComboBoxItem>10</ComboBoxItem>
+            <ComboBoxItem>12</ComboBoxItem>
+            <ComboBoxItem>14</ComboBoxItem>
+            <ComboBoxItem>16</ComboBoxItem>
+            <ComboBoxItem>24</ComboBoxItem>
+            <ComboBoxItem>32</ComboBoxItem>
+        </ComboBox>
+        <ComboBox x:Name="styleComboBox" Grid.Column="2" Background="AliceBlue" HorizontalAlignment="Center" Height="25" Margin="0,30,0,0" VerticalAlignment="Top" Width="120">
+            <ComboBoxItem>Regular</ComboBoxItem>
+            <ComboBoxItem>Bold</ComboBoxItem>
+            <ComboBoxItem>Italic</ComboBoxItem>
+            <ComboBoxItem>Underline</ComboBoxItem>
+        </ComboBox>
+
+        <TextBlock x:Name="fontTB" Grid.ColumnSpan="3" HorizontalAlignment="Center" VerticalAlignment="Center" Text="Образец" FontSize="32"/>
 
         <Button Grid.Column="1" Content="Применить" VerticalAlignment="Bottom" Margin="0,0,0,50" Height="25" Width="75" Background="PaleGoldenrod" Click="Apply"/>
         <Button Grid.Column="1" Content="Выход" VerticalAlignment="Bottom" Margin="0,0,0,20" Height="25" Width="75" Background="PaleVioletRed" Click="Exit"/>
+        <Button Grid.Column="2" Content="Задание 2 👉" VerticalAlignment="Bottom" Margin="0,0,0,20" Height="25" Width="85" Background="LightCyan" Click="Task2"/>
     </Grid>
 </Window>

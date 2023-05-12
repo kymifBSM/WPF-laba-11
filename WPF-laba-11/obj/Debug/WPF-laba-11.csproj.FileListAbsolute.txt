@@ -14,3 +14,5 @@ C:\Users\kymifBSM\source\repos\WPF-laba-11\WPF-laba-11\obj\Debug\WPF-laba-11.csp
 C:\Users\kymifBSM\source\repos\WPF-laba-11\WPF-laba-11\obj\Debug\WPF-laba-11.csproj.CoreCompileInputs.cache
 C:\Users\kymifBSM\source\repos\WPF-laba-11\WPF-laba-11\obj\Debug\WPF-laba-11.exe
 C:\Users\kymifBSM\source\repos\WPF-laba-11\WPF-laba-11\obj\Debug\WPF-laba-11.pdb
+C:\Users\kymifBSM\Source\Repos\WPF-laba-11\WPF-laba-11\obj\Debug\zadanie2.g.cs
+C:\Users\kymifBSM\Source\Repos\WPF-laba-11\WPF-laba-11\obj\Debug\zadanie2.baml

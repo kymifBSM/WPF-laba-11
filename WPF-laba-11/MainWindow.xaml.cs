@@ -35,21 +35,28 @@ namespace WPF_laba_11
                 bool isItalic = (styleComboBox.SelectedItem as ComboBoxItem)?.Content?.ToString() == "Italic";
                 bool isUnderlined = (styleComboBox.SelectedItem as ComboBoxItem)?.Content?.ToString() == "Underline";
 
-                fontLabel.FontFamily = new System.Windows.Media.FontFamily(fontFamily);
-                fontLabel.FontSize = fontSize;
-                fontLabel.FontWeight = isBold ? FontWeights.Bold : FontWeights.Normal;
-                fontLabel.FontStyle = isItalic ? FontStyles.Italic : FontStyles.Normal;
-                fontLabel.TextDecorations = isUnderlined ? TextDecorations.Underline : null;
+                fontTB.FontFamily = new FontFamily(fontFamily);
+                fontTB.FontSize = fontSize;
+                fontTB.FontWeight = isBold ? FontWeights.Bold : FontWeights.Normal;
+                fontTB.FontStyle = isItalic ? FontStyles.Italic : FontStyles.Normal;
+                fontTB.TextDecorations = isUnderlined ? TextDecorations.Underline : null;
             }
             catch (FormatException ex)
             {
                 MessageBox.Show($"Ошибка формата: {ex.Message}");
             }
         }
+
         private void Exit(object sender, RoutedEventArgs e)
         {
             Close();
         }
+
+        private void Task2(object sender, RoutedEventArgs e)
+        {
+            zadanie2 z2 = new zadanie2();
+            z2.Show();
+            Close();
+        }
     }
 }
-
